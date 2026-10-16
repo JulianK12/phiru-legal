@@ -17,4 +17,4 @@ Julian Kreidler, Anschrift wie oben
 
 ## Hinweis
 
-Phiru ist eine kostenlose App ohne Werbung und ohne eigenen Server. Die Datenschutzerklärung steht unter (Datenschutz).
+Phiru ist eine kostenlose App ohne Werbung und ohne eigenen Server. Die Datenschutzerklärung steht unter [Datenschutz](Datenschutz).
