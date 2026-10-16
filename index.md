@@ -1,3 +1,7 @@
+---
+lang: en
+---
+
 # Phiru
 
 Phiru is a gentle running companion for beginners, with no pressure and no ads.

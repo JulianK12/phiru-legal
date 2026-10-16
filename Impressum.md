@@ -1,6 +1,10 @@
+---
+lang: de
+---
+
 # Impressum
 
-Angaben gemäß § 5 DDG
+Anbieter der App Phiru und dieser Website, Angaben gemäß § 5 DDG:
 
 Julian Kreidler  
 Vor den Siebenburgen 74  
@@ -10,10 +14,6 @@ Deutschland
 ## Kontakt
 
 E-Mail: info.phiru@web.de
-
-## Verantwortlich für den Inhalt
-
-Julian Kreidler, Anschrift wie oben
 
 ## Hinweis
 

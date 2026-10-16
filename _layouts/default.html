@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<!-- Own layout instead of the theme's: it loads nothing from other providers (no scripts, no fonts) -->
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      {% if site.title and site.title != page.title %}
+      <p><a href="{{ "/" | relative_url }}">{{ site.title }}</a></p>
+      {% endif %}
+
+      {{ content }}
+
+      <footer class="border-top border-gray-light mt-5 pt-3 text-gray">
+        <a href="{{ "/Impressum" | relative_url }}">Impressum</a> |
+        <a href="{{ "/Datenschutz" | relative_url }}">Datenschutzerklärung</a> |
+        <a href="{{ "/Privacy-Policy" | relative_url }}">Privacy Policy</a> |
+        <a href="{{ "/Politique-de-confidentialite" | relative_url }}">Politique de confidentialité</a>
+      </footer>
+    </div>
+  </body>
+</html>

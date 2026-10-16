@@ -1,0 +1,5 @@
+title: Phiru
+lang: en
+theme: jekyll-theme-primer
+plugins:
+  - jekyll-seo-tag
