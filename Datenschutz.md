@@ -8,7 +8,7 @@ Julian Kreidler
 Vor den Siebenburgen 74  
 50676 Köln  
 Deutschland  
-julian.kreidler@gmail.com
+info.phiru@web.de
 
 ## Kurz gesagt
 
