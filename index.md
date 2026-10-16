@@ -9,5 +9,5 @@ Phiru is a gentle running companion for beginners, with no pressure and no ads.
 
 ## Other languages
 
-- [Datenschutzerklärung (Deutsch)](datenschutz)
+- [Datenschutzerklärung (Deutsch)](Datenschutz)
 - [Politique de confidentialité (Français)](Politique-de-confidentialite)
