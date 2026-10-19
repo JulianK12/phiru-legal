@@ -113,8 +113,8 @@ You have the right of access (Art. 15 GDPR), rectification (Art. 16 GDPR), erasu
 
 ## A note on health
 
-Phiru is a training companion and not a medical device. Phiru does not replace medical advice. If you have complaints or pre-existing conditions, talk to your doctor before you start.
+Phiru is a training companion and not a medical device. Phiru does not replace medical advice. If you have complaints or pre-existing conditions, talk to your doctor before you start. Please talk through training plans with your doctor or another qualified person, such as a running coach, before you follow them. While you run, stay aware of the traffic and your surroundings, keep the volume low enough to hear what is going on around you, and look at the screen only when it is safe.
 
 ## Plans, paces and distances
 
-Training plans and paces are suggestions. You decide yourself how fast and how far you run. Distance and pace are measured by GPS and can differ from the actual distance.
+Training plans and paces are suggestions. You decide yourself how fast and how far you run. Please talk through training plans with your doctor or another qualified person, such as a running coach, before you follow them. Distance and pace are measured by GPS and can differ from the actual distance. For longer distances, from about 10 kilometers or an hour non-stop, a plan cannot replace an individual look at your situation. To keep the risk of injury low, talk to your doctor or an experienced running coach and build up slowly.

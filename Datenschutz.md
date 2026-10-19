@@ -113,8 +113,8 @@ Du hast das Recht auf Auskunft (Art. 15 DSGVO), Berichtigung (Art. 16 DSGVO), L�
 
 ## Hinweis zur Gesundheit
 
-Phiru ist ein Trainingsbegleiter und kein Medizinprodukt. Phiru ersetzt keine ärztliche Beratung. Wenn du Beschwerden oder Vorerkrankungen hast, sprich vor dem Start mit deiner Ärztin oder deinem Arzt.
+Phiru ist ein Trainingsbegleiter und kein Medizinprodukt. Phiru ersetzt keine ärztliche Beratung. Wenn du Beschwerden oder Vorerkrankungen hast, sprich vor dem Start mit deiner Ärztin oder deinem Arzt. Besprich Trainingspläne bitte vorher mit deiner Ärztin oder deinem Arzt oder einer anderen qualifizierten Person, zum Beispiel einer Laufberatung. Achte beim Laufen auf den Verkehr und deine Umgebung, halte die Lautstärke so niedrig, dass du hörst, was um dich herum passiert, und schau nur auf den Bildschirm, wenn es sicher ist.
 
 ## Pläne, Paces und Distanzen
 
-Trainingspläne und Paces sind Vorschläge. Du entscheidest selbst, wie schnell und wie weit du läufst. Distanz und Pace werden per GPS ermittelt und können von der tatsächlichen Strecke abweichen.
+Trainingspläne und Paces sind Vorschläge. Du entscheidest selbst, wie schnell und wie weit du läufst. Besprich Trainingspläne bitte vorher mit deiner Ärztin oder deinem Arzt oder einer anderen qualifizierten Person, zum Beispiel einer Laufberatung. Distanz und Pace werden per GPS ermittelt und können von der tatsächlichen Strecke abweichen. Bei längeren Strecken, ab etwa 10 Kilometern oder einer Stunde am Stück, kann ein Plan eine individuelle Betrachtung deiner Situation nicht ersetzen. Damit das Verletzungsrisiko gering bleibt, sprich mit deiner Ärztin oder deinem Arzt oder einer erfahrenen Laufberatung und steigere dich langsam.

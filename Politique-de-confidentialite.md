@@ -113,8 +113,8 @@ Tu disposes d’un droit d’accès (art. 15 du RGPD), de rectification (art. 16
 
 ## Un mot sur la santé
 
-Phiru est un compagnon d’entraînement et non un dispositif médical. Phiru ne remplace pas un avis médical. Si tu as des douleurs ou des problèmes de santé, parles-en à ton médecin avant de commencer.
+Phiru est un compagnon d’entraînement et non un dispositif médical. Phiru ne remplace pas un avis médical. Si tu as des douleurs ou des problèmes de santé, parles-en à ton médecin avant de commencer. Parle de tes plans d’entraînement avant de les suivre avec ton médecin ou une autre personne qualifiée, par exemple un coach de course. Pendant que tu cours, fais attention à la circulation et à ce qui t’entoure, garde un volume assez bas pour entendre ce qui se passe autour de toi et ne regarde l’écran que lorsque c’est sans danger.
 
 ## Plans, allures et distances
 
-Les plans d’entraînement et les allures sont des suggestions. C’est toi qui décides à quelle vitesse et jusqu’où tu cours. La distance et l’allure sont mesurées par GPS et peuvent différer de la distance réelle.
+Les plans d’entraînement et les allures sont des suggestions. C’est toi qui décides à quelle vitesse et jusqu’où tu cours. Parle de tes plans d’entraînement avant de les suivre avec ton médecin ou une autre personne qualifiée, par exemple un coach de course. La distance et l’allure sont mesurées par GPS et peuvent différer de la distance réelle. Pour les distances plus longues, à partir d’environ 10 kilomètres ou une heure sans pause, un plan ne peut pas remplacer un examen individuel de ta situation. Pour limiter le risque de blessure, parles-en à ton médecin ou à un coach de course expérimenté et progresse doucement.
