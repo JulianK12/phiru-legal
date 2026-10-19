@@ -25,8 +25,6 @@ Phiru n’a pas de serveur, n’affiche aucune publicité et ne te suit pas : au
 Les données ne quittent ton iPhone que dans ces cas :
 
 - **Cartes :** pour afficher des cartes, ton iPhone charge des portions de carte depuis les serveurs d’Apple.
-- **Strava :** quand tu publies toi-même une sortie sur Strava.
-- **Partage :** quand tu transmets toi-même une image d’une sortie.
 - **Services d’Apple que tu configures toi-même dans iOS :** par exemple les sauvegardes iCloud, la synchronisation d’Apple Santé via iCloud ou les rapports de plantage destinés aux développeurs.
 
 ## Dans l’app
@@ -38,7 +36,6 @@ Les données ne quittent ton iPhone que dans ces cas :
 - **Messages de la boîte aux lettres** qu’une personne y dépose pour toi, ainsi que le code associé.
 - **Progression du jeu :** tes graines et ce que tu as acheté au marché.
 - **Réglages** comme le prénom, les jours de course et l’heure du rappel.
-- **Connexion Strava :** les identifiants de ton application API Strava et les jetons de connexion, exclusivement dans le trousseau de ton iPhone.
 
 Pour que le widget puisse afficher quelque chose, Phiru place un petit résumé, par exemple ton prénom, la prochaine séance et le nombre de tes sorties, dans un espace de stockage partagé sur ton iPhone. Pendant une sortie, une activité en direct affiche la phase en cours sur l’écran verrouillé.
 
@@ -48,7 +45,7 @@ Comme toutes les données d’app, ces données peuvent faire partie de ta sauve
 
 Phiru utilise ta position uniquement pendant une sortie, y compris en arrière-plan écran verrouillé. Ainsi, les annonces vocales arrivent à l’heure, la pause auto remarque quand tu t’arrêtes, et Phiru peut enregistrer ton parcours si tu le souhaites.
 
-Le parcours et la distance ne sont enregistrés que si « Enregistrer le parcours » est activé. Sinon, Phiru garde les données de localisation en mémoire uniquement pendant la sortie et les efface ensuite. Phiru ne transmet pas ta position de lui-même. Ce qui se passe avec les cartes et lors d’une publication sur Strava est décrit dans les sections correspondantes. Tu accordes et retires l’autorisation dans les réglages d’iOS.
+Le parcours et la distance ne sont enregistrés que si « Enregistrer le parcours » est activé. Sinon, Phiru garde les données de localisation en mémoire uniquement pendant la sortie et les efface ensuite. Phiru ne transmet pas ta position de lui-même. Ce qui se passe avec les cartes est décrit dans la section correspondante. Tu accordes et retires l’autorisation dans les réglages d’iOS.
 
 ### Cartes
 
@@ -58,22 +55,7 @@ Apple est responsable du traitement chez Apple ; dans l’UE, il s’agit d’Ap
 
 ### Apple Santé
 
-Avec ton accord, Phiru enregistre tes sorties comme entraînements (durée, distance, parcours) dans Apple Santé. Phiru ne lit aucune donnée de santé dans Apple Santé. Les données de santé ne sont pas utilisées à des fins publicitaires et ne sont pas transmises à des tiers, sauf si tu publies toi-même une sortie sur Strava. C’est dans tes réglages iCloud que tu décides si Apple Santé synchronise tes données via iCloud. Tu modifies l’autorisation de Phiru dans l’app Santé.
-
-### Strava
-
-Si tu connectes Phiru à ton compte Strava et touches « Publier sur Strava », ton iPhone envoie la sortie directement à ton compte Strava : titre, description, heure de départ, durée, distance et, s’il a été enregistré, le parcours complet avec horodatage et altitude. À noter :
-
-- Le parcours n’est pas raccourci, contrairement à l’image à partager. Qui peut le voir dépend de tes réglages de confidentialité sur Strava, par exemple en masquant le départ et l’arrivée de tes activités sur la carte.
-- La description est préremplie avec ton ressenti et ta note. Tu peux la modifier ou la supprimer avant de publier.
-
-Strava traite les données en tant que responsable du traitement distinct. Si tu vis dans l’UE, il s’agit de Strava Ireland Limited, Dublin, Irlande. Strava peut aussi transférer des données vers les États-Unis et s’appuie pour cela, selon ses propres indications, sur des clauses contractuelles types. C’est la [politique de confidentialité de Strava](https://www.strava.com/legal/privacy) qui s’applique. Je ne reçois aucune de ces données.
-
-Pour la connexion, tu crées ta propre application API Strava. Lors de la connexion, Phiru ouvre la page de connexion de Strava dans une fenêtre de navigateur protégée. Tu y saisis ton mot de passe Strava directement chez Strava, et Phiru ne le voit jamais. Tu peux te déconnecter à tout moment dans Phiru, sous « Plus ». Phiru révoque alors aussi son accès chez Strava.
-
-### Photos et partage
-
-À ta demande, Phiru ajoute une image de ta sortie à tes Photos ou la transmet à une app de ton choix via le menu de partage d’iOS. L’image montre le titre, la date, les temps, la distance ou l’allure et, le cas échéant, ton ressenti et ta note. Le parcours y est raccourci des 200 premiers et derniers mètres pour que l’image ne montre pas où tu habites. Pour la transmission, ce sont les conditions de l’app que tu choisis qui s’appliquent. Phiru peut seulement ajouter des images à tes Photos et ne peut pas voir tes photos.
+Avec ton accord, Phiru enregistre tes sorties comme entraînements (durée, distance, parcours) dans Apple Santé. Phiru ne lit aucune donnée de santé dans Apple Santé. Les données de santé ne sont pas utilisées à des fins publicitaires et ne sont pas transmises à des tiers. C’est dans tes réglages iCloud que tu décides si Apple Santé synchronise tes données via iCloud. Tu modifies l’autorisation de Phiru dans l’app Santé.
 
 ### Notifications
 
@@ -100,24 +82,23 @@ Ce site web ne dépose aucun cookie, n’utilise aucun outil d’analyse et ne c
 ## Bases juridiques
 
 - **Fonctions de l’app**, comme l’enregistrement sur ton iPhone, les cartes, le widget et la progression du jeu : exécution du contrat d’utilisation de l’app (art. 6, paragraphe 1, point b, du RGPD). Sur ton iPhone, Phiru n’enregistre que ce qui est strictement nécessaire aux fonctions que tu utilises (art. 25, paragraphe 2, point 2, de la loi allemande TDDDG).
-- **Localisation, Apple Santé, Photos, notifications et Strava :** ton consentement (art. 6, paragraphe 1, point a, du RGPD), et pour les données de santé ton consentement explicite (art. 9, paragraphe 2, point a, du RGPD). Tu le donnes via les demandes d’iOS et en touchant toi-même les boutons.
+- **Localisation, Apple Santé et notifications :** ton consentement (art. 6, paragraphe 1, point a, du RGPD), et pour les données de santé ton consentement explicite (art. 9, paragraphe 2, point a, du RGPD). Tu le donnes via les demandes d’iOS et en touchant toi-même les boutons.
 - **Rapports de plantage et statistiques :** ton consentement dans les réglages d’iOS (art. 6, paragraphe 1, point a, du RGPD).
 - **E-mail :** art. 6, paragraphe 1, point b, du RGPD s’il s’agit de l’utilisation de Phiru, sinon mon intérêt légitime à répondre à ton message (art. 6, paragraphe 1, point f, du RGPD).
 - **Site web :** mon intérêt légitime à disposer d’un site web sûr et accessible (art. 6, paragraphe 1, point f, du RGPD).
 
 ## Durée de conservation
 
-- **Les données sur ton iPhone** restent jusqu’à ce que tu les supprimes : une sortie à la fois dans le journal, tout d’un coup sous « Plus » → « Supprimer toutes les données », ou en supprimant Phiru. Les entraînements dans Apple Santé et les images dans tes Photos y restent jusqu’à ce que tu les y supprimes.
-- **Les identifiants Strava** restent jusqu’à ce que tu te déconnectes ou supprimes toutes les données. Si tu supprimes seulement l’app, ils restent, pour des raisons techniques, dans le trousseau d’iOS jusqu’à ce que tu réinstalles Phiru. Phiru les supprime alors au premier lancement. Le mieux est donc de déconnecter Strava avant.
+- **Les données sur ton iPhone** restent jusqu’à ce que tu les supprimes : une sortie à la fois dans le journal, tout d’un coup sous « Plus » → « Supprimer toutes les données », ou en supprimant Phiru. Les entraînements dans Apple Santé y restent jusqu’à ce que tu les y supprimes.
 - **Les e-mails** sont supprimés dès que ta demande est traitée, sauf si une obligation légale m’impose de les conserver.
 - **Les rapports de plantage et statistiques** sont mis à disposition par Apple pendant une durée fixée par Apple. Je supprime les rapports téléchargés dès que l’erreur est corrigée.
 - **Les journaux du serveur du site web** sont conservés par GitHub. C’est GitHub qui en fixe la durée.
 
 ## Tes droits
 
-Tu disposes d’un droit d’accès (art. 15 du RGPD), de rectification (art. 16 du RGPD), d’effacement (art. 17 du RGPD), de limitation du traitement (art. 18 du RGPD) et de portabilité des données (art. 20 du RGPD). Comme je ne reçois pas les données de l’app, tu exerces la plupart de ces droits directement sur ton iPhone : supprimer des sorties dans le journal, retirer des autorisations dans les réglages d’iOS, utiliser « Supprimer toutes les données » ou supprimer l’app. Pour les données détenues par Apple, Strava ou GitHub, adresse-toi au fournisseur concerné. Pour tout le reste, écris-moi à info.phiru@web.de.
+Tu disposes d’un droit d’accès (art. 15 du RGPD), de rectification (art. 16 du RGPD), d’effacement (art. 17 du RGPD), de limitation du traitement (art. 18 du RGPD) et de portabilité des données (art. 20 du RGPD). Comme je ne reçois pas les données de l’app, tu exerces la plupart de ces droits directement sur ton iPhone : supprimer des sorties dans le journal, retirer des autorisations dans les réglages d’iOS, utiliser « Supprimer toutes les données » ou supprimer l’app. Pour les données détenues par Apple ou GitHub, adresse-toi au fournisseur concerné. Pour tout le reste, écris-moi à info.phiru@web.de.
 
-**Retrait du consentement :** tu peux retirer ton consentement à tout moment pour l’avenir, par exemple dans les réglages d’iOS, dans l’app Santé ou en déconnectant Strava. Le traitement effectué avant le retrait reste licite.
+**Retrait du consentement :** tu peux retirer ton consentement à tout moment pour l’avenir, par exemple dans les réglages d’iOS ou dans l’app Santé. Le traitement effectué avant le retrait reste licite.
 
 **Droit d’opposition :** lorsque je traite des données sur la base d’intérêts légitimes (art. 6, paragraphe 1, point f, du RGPD), tu peux t’opposer à tout moment à ce traitement pour des raisons tenant à ta situation particulière (art. 21 du RGPD).
 
@@ -127,7 +108,7 @@ Tu disposes d’un droit d’accès (art. 15 du RGPD), de rectification (art. 16
 
 - **Aucune obligation :** tu n’as aucune obligation de fournir des données à Phiru ni d’accorder des autorisations. Sans localisation, il n’y a ni parcours, ni distance, ni pause auto, et les annonces vocales écran verrouillé risquent de ne pas arriver à l’heure. Sans autorisation Santé, les sorties n’arrivent pas dans Apple Santé. Tout le reste fonctionne quand même.
 - **Aucune décision automatisée :** Phiru ne prend aucune décision automatisée au sens de l’art. 22 du RGPD et ne crée pas de profil de toi. Phiru calcule les suggestions d’entraînement uniquement sur ton iPhone.
-- **Moins de 16 ans :** si tu as moins de 16 ans, parle-en à tes parents avant d’accorder des autorisations comme la localisation, Apple Santé ou Strava.
+- **Moins de 16 ans :** si tu as moins de 16 ans, parle-en à tes parents avant d’accorder des autorisations comme la localisation ou Apple Santé.
 - **Modifications :** quand Phiru évolue, j’adapte cette politique de confidentialité. C’est la version actuelle publiée sur ce site qui s’applique.
 
 ## Un mot sur la santé
